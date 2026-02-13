@@ -118,7 +118,7 @@ Ejemplo:
 # 3. Frases comunes y expresiones útiles
 ---
 
-## 👋 Saludos
+## Saludos
 
 - Ahoj = Hola
 - Dobrý den = Buenos días
@@ -127,7 +127,7 @@ Ejemplo:
 
 ---
 
-## 🙏 Cortesía
+## Cortesía
 
 1. Prosím = Por favor
 2. Děkuji = Gracias
@@ -135,7 +135,7 @@ Ejemplo:
 
 ---
 
-## 🔹️ Frases útiles
+## Frases útiles
 
 - Nerozumím = No entiendo
 - Mluvíte španělsky? = ¿Habla español?
